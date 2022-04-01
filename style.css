@@ -1,0 +1,72 @@
+#random{
+	font-size:30px;
+	opacity:0%;
+}
+#easydiv{
+	width:250px;
+	height:250px;
+	border-style:solid;
+}
+#normaldiv{
+	width:500px;
+	height:500px;
+	border-style:solid;
+}
+#harddiv{
+	width:750px;
+	height:750px;
+	border-style:solid;
+}
+#expertdiv{
+	width:1000px;
+	height:1000px;
+	border-style:solid;
+}
+#insanediv{
+	width:10000px;
+	height:10000px;
+	border-style:solid;
+}
+#impossiblediv{
+	width:1000000px;
+	height:1000000px;
+	border-style:solid;
+}
+#title{
+	border-style:solid;
+	height:1000px;
+}
+h1{
+	font-size:120px
+}
+#title h2{
+	font-size:50px;
+}
+#title a{
+	font-size:25px;
+}
+#button {
+	width:32%;
+	border-style:solid;
+	border-color:black;
+	margin-left:6px;
+}
+#back{
+	font-size:20px;
+}
+#backtotitle{
+	font-size:30px;
+}
+#titlebanner{
+	width:98.5%;
+	border-style:solid;
+	border-color:black;
+	margin-left:6px;
+	margin-top:6px;
+}
+p{
+	font-size:20px;
+}
+#first{
+	font-size:100px;
+}
